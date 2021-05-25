@@ -1,4 +1,4 @@
-![AnnaBella]()
+![AnnaBella](https://github.com/Raii-Azevedo/Projeto-Anna-Bella/blob/master/anna-bella.gif)
  
 ## Anna Bella Project
  
